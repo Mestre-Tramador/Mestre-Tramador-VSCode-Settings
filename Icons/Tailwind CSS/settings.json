@@ -1,0 +1,10 @@
+{
+  "vsicons.associations.files": [
+    {
+      "icon": "tailwind",
+      "extensions": ["tailwind.data.json"],
+      "filename": true,
+      "format": "svg"
+    }
+  ]
+}

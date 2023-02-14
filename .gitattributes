@@ -1,0 +1,8 @@
+# Set JSON as main language of Repository.
+*.json linguist-detectable
+
+# Normalize JSON files
+*.json text
+
+# Rest of the files
+* text=auto

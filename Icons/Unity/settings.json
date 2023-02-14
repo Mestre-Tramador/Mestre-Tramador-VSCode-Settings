@@ -1,0 +1,15 @@
+{
+  "vsicons.associations.files": [
+    {
+      "icon": "shaderlab",
+      "extensions": ["package.json"],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "shaderlab",
+      "extensions": ["asmdef", "prefab"],
+      "format": "svg"
+    }
+  ]
+}

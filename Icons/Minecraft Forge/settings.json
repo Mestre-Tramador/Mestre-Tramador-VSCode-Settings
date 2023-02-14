@@ -1,0 +1,9 @@
+{
+  "vsicons.associations.folders": [
+    {
+      "icon": "services",
+      "extensions": ["run"],
+      "format": "svg"
+    }
+  ]
+}

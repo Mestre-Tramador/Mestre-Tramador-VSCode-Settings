@@ -1,0 +1,51 @@
+{
+  "vsicons.associations.files": [
+    {
+      "icon": "blockbench",
+      "extensions": ["bbmodel"],
+      "format": "svg"
+    },
+    {
+      "icon": "styleci",
+      "extensions": [".styleci.yml"],
+      "format": "svg",
+      "filename": true
+    },
+    {
+      "icon": "todo",
+      "extensions": [
+        "BUG-REPORT.yml",
+        "BUG-REPORT.ES.yml",
+        "BUG-REPORT.PT-BR.yml",
+        "DOCS-REVISION.ES.yml",
+        "DOCS-REVISION.PT-BR.yml",
+        "DOCS-REVISION.yml",
+        "FEATURE-REQUEST.ES.yml",
+        "FEATURE-REQUEST.PT-BR.yml",
+        "FEATURE-REQUEST.yml",
+        "QUESTION-ANSWER.ES.yml",
+        "QUESTION-ANSWER.PT-BR.yml",
+        "QUESTION-ANSWER.yml"
+      ],
+      "filename": true,
+      "format": "svg"
+    }
+  ],
+"vsicons.associations.folders": [
+    {
+      "icon": "blockbench",
+      "extensions": ["bbmodel", "bbmodels"],
+      "format": "svg"
+    },
+    {
+      "icon": "badge",
+      "extensions": ["badge", "badges"],
+      "format": "svg"
+    },
+    {
+      "icon": "github",
+      "extensions": ["ISSUE_TEMPLATE"],
+      "format": "svg"
+    }
+  ]
+}

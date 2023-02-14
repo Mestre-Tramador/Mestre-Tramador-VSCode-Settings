@@ -1,0 +1,77 @@
+{
+  "vsicons.associations.files": [
+    {
+      "icon": "blade",
+      "extensions": ["blade.php"],
+      "format": "svg"
+    }
+  ],
+  "vsicons.associations.folders": [
+    {
+      "icon": "api",
+      "extensions": ["bootstrap"],
+      "format": "svg"
+    },
+    {
+      "icon": "asset",
+      "extensions": ["resources"],
+      "format": "svg"
+    },
+    {
+      "icon": "composer",
+      "extensions": ["vendor"],
+      "format": "svg"
+    },
+    {
+      "icon": "db",
+      "extensions": ["factories", "migrations", "seeders"],
+      "format": "svg"
+    },
+    {
+      "icon": "helper",
+      "extensions": ["storage"],
+      "format": "svg"
+    },
+    {
+      "icon": "include",
+      "extensions": ["Providers"],
+      "format": "svg"
+    },
+    {
+      "icon": "library",
+      "extensions": ["Services"],
+      "format": "svg",
+      "extends": "services"
+    },
+    {
+      "icon": "log",
+      "extensions": ["cache"],
+      "format": "svg"
+    },
+    {
+      "icon": "private",
+      "extensions": ["Exceptions"],
+      "format": "svg"
+    },
+    {
+      "icon": "script",
+      "extensions": ["Listeners"],
+      "format": "svg"
+    },
+    {
+      "icon": "services",
+      "extensions": ["Jobs"],
+      "format": "svg"
+    },
+    {
+      "icon": "template",
+      "extensions": ["framework"],
+      "format": "svg"
+    },
+    {
+      "icon": "www",
+      "extensions": ["Http"],
+      "format": "svg"
+    }
+  ]
+}
